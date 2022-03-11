@@ -10,7 +10,7 @@ python -m venv venv
 pip3 install numpy cmake
 ```
 
-## 2. Install vcpkg tag: 2020.04 to C:\dev
+## 2. Install vcpkg
 
 ```powershell
 cd c:\dev  
